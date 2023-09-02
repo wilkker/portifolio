@@ -151,6 +151,10 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem {
+        /* animation: floatAnimation 5s ease-in-out infinite; */
+        width: 80%;
+    } 
    
 
 }
